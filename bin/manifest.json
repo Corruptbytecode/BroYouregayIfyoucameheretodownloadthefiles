@@ -1,0 +1,30 @@
+﻿{
+    "product":  "Mist",
+    "version":  "1.1.0",
+    "uiVersion":  "0.8.2",
+    "targetVersion":  "version-02c37bc51a384b8f",
+    "payloadMode":  "external",
+    "generatedAtUtc":  "2026-10-03T10:39:52.4984920Z",
+    "files":  [
+                  {
+                      "name":  "ide.exe",
+                      "size":  40624640,
+                      "sha256":  "4c65aae68bed5f87f6430e40a4c7cd4bbcfdf924241bc9eab709a0a10c60e8a5"
+                  },
+                  {
+                      "name":  "module.dll",
+                      "size":  13704704,
+                      "sha256":  "1a0609e0595478171366d20d7d429aa1e9e22970bb71c881564592fc5a386e49"
+                  },
+                  {
+                      "name":  "mist.bin",
+                      "size":  105656368,
+                      "sha256":  "c582679e7170f4fad8b9c683dc0005adadcc0ddad912f8c20201a93c1c42c912"
+                  },
+                  {
+                      "name":  "RobloxPlayerBeta.dll",
+                      "size":  17015296,
+                      "sha256":  "e6c2e4390cee6df25fa08d0f211d9897202bd6bdb21180f63786c1069c0088af"
+                  }
+              ]
+}
